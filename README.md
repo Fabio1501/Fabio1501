@@ -1,5 +1,5 @@
 
-![Portada](https://i.postimg.cc/JhbLch1M/Portada-Linked-In.png)
+![Portada]([https://i.postimg.cc/JhbLch1M/Portada-Linked-In.png](https://i.postimg.cc/HxSbYpXw/Portada-Linked-In.png))
 
 
 
