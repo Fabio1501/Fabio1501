@@ -11,6 +11,21 @@ Soy desarrollador web full stack MERN/PERN. Mi objetivo mas cercano es conseguir
 ## 🛠 Skills
 Javascript, HTML, CSS, React, Redux, NodeJS, PostgreSQL, MongoDB, PrismaORM, Sequelize, Git, etc...
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/0xabdulkhalid/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabio1501&show_icons=true&theme=merko" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabio1501" width="400"  alt="0xabdulkhalid"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-fabian.vercel.app/)
