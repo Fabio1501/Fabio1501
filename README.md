@@ -17,8 +17,8 @@ Javascript, HTML, CSS, React, Redux, NodeJS, PostgreSQL, MongoDB, PrismaORM, Seq
 <div align="center">
 
 <a href="https://github.com/Fabio1501">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabio1501&show_icons=true&theme=merko" margin-rigth="20px" height="550" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabio1501&show_icons=true&theme=merko" height="250" width="450"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabio1501&show_icons=true&theme=merko" margin-right="20px" height="250" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabio1501&show_icons=true&theme=merko" height="250" width="450"  alt="fabio1501"/>
 </a>
 </div>
 
