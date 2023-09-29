@@ -35,8 +35,7 @@ Javascript, HTML, CSS, React, Redux, NodeJS, PostgreSQL, MongoDB, PrismaORM, Seq
 <br>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-fabian.vercel.app/)
-(En proceso)  
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fabidev.vercel.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian1501/)
 
